@@ -1,6 +1,6 @@
-%Function that takes in the three coefficients of the quadratic equation
-%and calculates the roots for the equation (both real and imaginary roots)
-%the value the coefficients is entered by user in order ax^2 + bx + c.
+% Function that takes in the three coefficients of the quadratic equation
+% and calculates the roots for the equation (both real and imaginary roots)
+% the value the coefficients is entered by user in order ax^2 + bx + c.
 
 % step 1: taking input from user(i.e.coefficients in order a , b, c)
 function my_quadratic

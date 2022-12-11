@@ -1,7 +1,7 @@
 % This fuction calculates the number of words in a string provided by user
-%It assumes that words in the string are separated by exactly one space
-%and every portion of the string between 2 spaces is a word.It outputs 0
-%value if any empty string is given
+% It assumes that words in the string are separated by exactly one space
+% and every portion of the string between 2 spaces is a word.It outputs 0
+% value if any empty string is given
 function countWords
 x = input('Enter a string: ');  
 p = strlength(x);

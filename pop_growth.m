@@ -1,5 +1,5 @@
-% This script compares the logistic population growth model for the US and  
-% census for population of US year 1790 to 1990
+%  This script compares the logistic population growth model for the US and  
+%  census for population of US year 1790 to 1990
 
 % step 1: plotting the logistic population growth model
 t = 1790:10:1990;% generates array of years from 1790 to 1990

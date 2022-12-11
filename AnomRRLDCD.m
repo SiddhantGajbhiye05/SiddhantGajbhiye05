@@ -1,3 +1,4 @@
+% MATLAB module for 3D gravity modelling of bouguer anomaly. 
 clc; clear all;
 xlength = input('Please enter the dimension of prism in x direction = ');
 ylength = input('Please enter the dimension of prism in y direction = ');
